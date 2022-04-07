@@ -1,0 +1,34 @@
+E:\cosas de la U\Clases 2022\RCD\Trabajo1\ClientNet\MyApp\bin\Debug\net6.0\MyApp.exe
+E:\cosas de la U\Clases 2022\RCD\Trabajo1\ClientNet\MyApp\bin\Debug\net6.0\MyApp.deps.json
+E:\cosas de la U\Clases 2022\RCD\Trabajo1\ClientNet\MyApp\bin\Debug\net6.0\MyApp.runtimeconfig.json
+E:\cosas de la U\Clases 2022\RCD\Trabajo1\ClientNet\MyApp\bin\Debug\net6.0\MyApp.dll
+E:\cosas de la U\Clases 2022\RCD\Trabajo1\ClientNet\MyApp\bin\Debug\net6.0\MyApp.pdb
+E:\cosas de la U\Clases 2022\RCD\Trabajo1\ClientNet\MyApp\obj\Debug\net6.0\MyApp.csproj.AssemblyReference.cache
+E:\cosas de la U\Clases 2022\RCD\Trabajo1\ClientNet\MyApp\obj\Debug\net6.0\MyApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\cosas de la U\Clases 2022\RCD\Trabajo1\ClientNet\MyApp\obj\Debug\net6.0\MyApp.AssemblyInfoInputs.cache
+E:\cosas de la U\Clases 2022\RCD\Trabajo1\ClientNet\MyApp\obj\Debug\net6.0\MyApp.AssemblyInfo.cs
+E:\cosas de la U\Clases 2022\RCD\Trabajo1\ClientNet\MyApp\obj\Debug\net6.0\MyApp.csproj.CoreCompileInputs.cache
+E:\cosas de la U\Clases 2022\RCD\Trabajo1\ClientNet\MyApp\obj\Debug\net6.0\MyApp.dll
+E:\cosas de la U\Clases 2022\RCD\Trabajo1\ClientNet\MyApp\obj\Debug\net6.0\refint\MyApp.dll
+E:\cosas de la U\Clases 2022\RCD\Trabajo1\ClientNet\MyApp\obj\Debug\net6.0\MyApp.pdb
+E:\cosas de la U\Clases 2022\RCD\Trabajo1\ClientNet\MyApp\obj\Debug\net6.0\MyApp.genruntimeconfig.cache
+E:\cosas de la U\Clases 2022\RCD\Trabajo1\ClientNet\MyApp\obj\Debug\net6.0\ref\MyApp.dll
+E:\cosas de la U\Clases 2022\RCD\Trabajo1\ClientNet\MyApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\cosas de la U\Clases 2022\RCD\Trabajo1\ClientNet\MyApp\obj\Debug\net6.0\MyApp.csproj.CopyComplete
+D:\ClientNet\MyApp\bin\Debug\net6.0\MyApp.exe
+D:\ClientNet\MyApp\bin\Debug\net6.0\MyApp.deps.json
+D:\ClientNet\MyApp\bin\Debug\net6.0\MyApp.runtimeconfig.json
+D:\ClientNet\MyApp\bin\Debug\net6.0\MyApp.dll
+D:\ClientNet\MyApp\bin\Debug\net6.0\MyApp.pdb
+D:\ClientNet\MyApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\ClientNet\MyApp\obj\Debug\net6.0\MyApp.csproj.AssemblyReference.cache
+D:\ClientNet\MyApp\obj\Debug\net6.0\MyApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\ClientNet\MyApp\obj\Debug\net6.0\MyApp.AssemblyInfoInputs.cache
+D:\ClientNet\MyApp\obj\Debug\net6.0\MyApp.AssemblyInfo.cs
+D:\ClientNet\MyApp\obj\Debug\net6.0\MyApp.csproj.CoreCompileInputs.cache
+D:\ClientNet\MyApp\obj\Debug\net6.0\MyApp.csproj.CopyComplete
+D:\ClientNet\MyApp\obj\Debug\net6.0\MyApp.dll
+D:\ClientNet\MyApp\obj\Debug\net6.0\refint\MyApp.dll
+D:\ClientNet\MyApp\obj\Debug\net6.0\MyApp.pdb
+D:\ClientNet\MyApp\obj\Debug\net6.0\MyApp.genruntimeconfig.cache
+D:\ClientNet\MyApp\obj\Debug\net6.0\ref\MyApp.dll
